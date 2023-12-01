@@ -7,4 +7,4 @@ Here you will find all my projects 😄
 
 ---
 
-LinkedIn profile: [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](www.linkedin.com/in/adolfo-salado-lópez-925455237)
+LinkedIn profile: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/adolfo-salado-lópez-925455237)
